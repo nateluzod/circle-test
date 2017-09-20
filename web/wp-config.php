@@ -51,7 +51,7 @@ if ( ! IS_LOCAL ) {
 /**
  * Force SSL
  */
-define( 'FORCE_SSL_ADMIN', true );
+define( 'FORCE_SSL_ADMIN', false );
 
 /**
  * Limit post revisions
